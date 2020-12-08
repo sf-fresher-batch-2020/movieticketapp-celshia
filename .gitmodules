@@ -1,0 +1,9 @@
+[submodule "movieticketapp-ui"]
+	path = movieticketapp-ui
+	url = https://github.com/sf-fresher-batch-2020/movieticketapp-ui.git
+[submodule "movieticketapp-angular-ui"]
+	path = movieticketapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/movieticketapp-angular-ui.git
+[submodule "movieapp-api"]
+	path = movieapp-api
+	url = https://github.com/sf-fresher-batch-2020/movieapp-api.git
