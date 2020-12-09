@@ -7,3 +7,6 @@
 [submodule "movieapp-api"]
 	path = movieapp-api
 	url = https://github.com/sf-fresher-batch-2020/movieapp-api.git
+[submodule "movieticketapp-mock-api"]
+	path = movieticketapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/movieticketapp-mock-api.git
